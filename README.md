@@ -1,11 +1,11 @@
 # dBug
+It's a fork of ospinto/dbug to restore it, I've always found this colorization relevant.
 
 ## How to use
 
     include_once("dBug.php");
     new dBug($myVariable);
 
-More examples at http://dbug.ospinto.com/examples.php
 
 ## Features
 
