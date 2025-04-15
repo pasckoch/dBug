@@ -13,6 +13,6 @@
         }
     ],
     "autoload": {
-        "files": [ "dBug.php" ]
+        "files": [ "Dbug.php" ]
     }
 }
