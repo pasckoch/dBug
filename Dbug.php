@@ -1,5 +1,10 @@
 <?php
 /*********************************************************************************************************************\
+ *  It's a fork of ospinto/dbug to restore it, I've always found this colorization relevant.
+ *  @author: Pascal Koch
+ *  All the following comment is original!
+ *  
+ *
  * LAST UPDATE
  * ============
  * August 6th, 2012
@@ -51,7 +56,7 @@
  *
 \*********************************************************************************************************************/
 
-class dBug {
+class Dbug {
 
 	var $xmlDepth=array();
 	var $xmlCData;
