@@ -1,10 +1,16 @@
 # dBug
 It's a fork of ospinto/dbug to restore it, I've always found this colorization relevant.
 
-## How to use
+## install
 
-    include_once("dBug.php");
-    new dBug($myVariable);
+    composer require pasckoch/dbug 
+    
+## How to use
+    
+    /** possibly add the composer autoload **/
+    require __DIR__.'/../vendor/autoload.php';
+    
+    new Dbug($myVariable);
 
 
 ## Features
