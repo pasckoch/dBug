@@ -1,11 +1,15 @@
 {
-    "name": "ospinto/dbug",
+    "name": "pasckoch/dbug",
     "description": "PHP version of ColdFusion's cfdump. Outputs colored and structured tabular variable information.",
     "license": "GPL-3.0",
     "authors": [
         {
             "name": "Kwaku Otchere",
             "email": "ospinto@hotmail.com"
+        },    
+        {
+            "name": "Pascal Koch",
+            "email": "app@pascalkoch.net"
         }
     ],
     "autoload": {
